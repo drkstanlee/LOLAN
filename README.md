@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="DRKSTANLEE.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="drk1.jpg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="LOLAN" src="https://img.shields.io/badge/LOLAN-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
