@@ -1,15 +1,15 @@
 
 <div align="center">
-  <img border-radius: 15px src="Dfa.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="drk 2.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="jewel" src="https://img.shields.io/badge/jewel-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="LOLAN" src="https://img.shields.io/badge/LOLAN-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/farook-kollam"><img title="Author" src="https://img.shields.io/badge/Author-farook-kollam/jewel?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/drkstanlee"><img title="Author" src="https://img.shields.io/badge/Author-drkstanlee/LOLAN?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/farook-kollam">farook-kollam</a> to make it public
+Project created by <a href="https://github.com/drkstanlee">drkstanlee</a> to make it public
     <br>
        | © |
         Reserved |
@@ -19,13 +19,13 @@ Project created by <a href="https://github.com/farook-kollam">farook-kollam</a> 
 ----
 
   <p align="center">
-  <a href="httsp://github.com/farook-kollam/jewel">
-    <img src="https://img.shields.io/github/repo-size/farook-kollam/jewel?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/drkstanlee/LOLAN">
+    <img src="https://img.shields.io/github/repo-size/drkstanlee/LOLAN?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/farook-kollam/followers"><img title="Followers" src="https://img.shields.io/github/followers/farook-kollam?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/farook-kollam/jewel/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/farook-kollam/jewel?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/farook-kollam/jewel/network/members"><img title="Forks" src="https://img.shields.io/github/forks/farook-kollam/jewel?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/farook-kollam/jewel/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/farook-kollam/jewel?label=Watchers&color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/drkstanlee/followers"><img title="Followers" src="https://img.shields.io/github/followers/drkstanlee?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/drkstanlee/LOLAN/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/drkstanlee/LOLAN?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/drkstanlee/LOLAN/network/members"><img title="Forks" src="https://img.shields.io/github/forks/drkstanlee/LOLAN?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/drkstanlee/LOLAN/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/drkstanlee/LOLAN?label=Watchers&color=f7df1e&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-f7df1e.svg"</a>
 </p>
 
@@ -40,9 +40,9 @@ Project created by <a href="https://github.com/farook-kollam">farook-kollam</a> 
   
 
 <div align="center">
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farook-kollam&show_icons=true&theme=nightowl" alt="farook-kollam" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drkstanlee&show_icons=true&theme=nightowl" alt="drkstanlee" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farook-kollam&theme=nightowl" alt="farook-kollam" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drkstanlee&theme=nightowl" alt="drkstanlee" /></p>
 </details> </div>
 
 
@@ -55,7 +55,7 @@ Click WA logo to Join Support Group 👇
 ## 
   <h3 align="center">📢 Support Group 2:</h3>
 <p align="center">
-Click jewel logo to Join Support Group 2👇
+Click LOLAN logo to Join Support Group 2👇
     <br>
 <br>
   <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
@@ -68,7 +68,7 @@ Click jewel logo to Join Support Group 2👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/farook-kollam/jewel.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/drkstanlee/LOLAN.git)
      </div>
 <br>
 <br >
@@ -83,8 +83,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/farook-kollam/jewel
-$ cd jewel
+$ git clone https://github.com/drkstanlee/LOLAN
+$ cd LOLAN
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -93,8 +93,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/farook-kollam/jewel
-$ cd jewel
+$ git clone https://github.com/drkstanlee/LOLAN
+$ cd LOLAN
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -114,9 +114,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![farook-kollam](https://github.com/farook-kollam.png?size=100)](https://github.com/farook-kollam) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) 
+  [![drkstanlee](https://github.com/drkstanlee.png?size=100)](https://github.com/drkstanlee) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) 
 ----|----|----
-[farook-kollam](https://github.com/farook-kollam)  | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2)
+[drkstanlee](https://github.com/drkstanlee)  | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
     
